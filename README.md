@@ -13,8 +13,17 @@ Blogging platform api with simple CRUD operations.
 ## Installation
 
 ```bash
+$ git clone https://github.com/bavertorun/BloggingPlatformAPI.git
+```
+
+```bash
+$ cd BloggingPlatformAPI
+```
+
+```bash
 $ yarn install
 ```
+
 
 ## Running the app
 

@@ -1,4 +1,8 @@
 import { Injectable } from '@nestjs/common';
 
 @Injectable()
-export class BlogsService {}
+export class BlogsService {
+    getBlogs(){
+        return 'blogs';
+    }
+}

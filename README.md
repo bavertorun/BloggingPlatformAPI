@@ -2,9 +2,10 @@
 <p align="center">
   <img src="https://assets.roadmap.sh/guest/blogging-platform-api.png" alt="Blogging Platform API" />
 </p>
-
-[circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
-[circleci-url]: https://circleci.com/gh/nestjs/nest
+<br>
+<p align="center">
+  <img src="https://i.hizliresim.com/lbcy30g.png" alt="Blogging Platform API" />
+</p>
 
 ## Description
 

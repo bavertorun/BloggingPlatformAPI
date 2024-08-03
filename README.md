@@ -38,3 +38,7 @@ $ yarn run start:dev
 # production mode
 $ yarn run start:prod
 ```
+
+## License
+
+This project is [MIT licensed](LICENSE).

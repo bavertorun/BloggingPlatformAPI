@@ -9,7 +9,7 @@
 
 ## Description
 
-Blogging platform api with simple CRUD operations.
+The Blogging Platform API is a RESTful backend service designed to power a personal blog. This API facilitates the management of blog articles, allowing users to perform essential CRUD (Create, Read, Update, Delete) operations on blog posts.
 
 ## Installation
 
